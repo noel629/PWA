@@ -1,0 +1,33 @@
+.post-card {
+    border: 1px solid black;
+    padding: 20px;;
+    border-radius: 10px;
+    margin: 20px 15px 0 15px;
+}
+
+.post-card .btn-edit {
+    color: black;
+    background-color: #ffc107;
+    border-color: #ffc107;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+
+.post-card .btn-dlt {
+    color: white;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    border-radius: 5px;
+    padding: 5px 15px;
+}
+
+.post-form {
+    border: 1px solid black;
+    padding: 20px;;
+    border-radius: 10px;
+    margin: 20px 15px 0 15px;
+}
+
+.post-form input {
+    margin: 5px 0
+}
